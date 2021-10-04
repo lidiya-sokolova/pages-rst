@@ -6,10 +6,11 @@ from typing import NewType, Union, List, Dict, Tuple, Any
 
 import sys
 import os
-import os.path as path
+import os.path as fs
 import subprocess as sp
 import locale
 import shutil
+import glob
 
 
 ExitCode = NewType("ExitCode", int)
@@ -34,7 +35,7 @@ DIRS = {
 
 def main() -> ExitCode:
     cd = os.getcwd()
-    os.chdir((path.normpath if path.isabs(__file__) else path.abspath)(path.dirname(__file__)))
+    os.chdir((fs.normpath if fs.isabs(__file__) else fs.abspath)(fs.dirname(__file__)))
     try:
         check_sphinx_build()
         if len(sys.argv) < 2:
@@ -145,7 +146,7 @@ def make_clean():
           "Cleaning\n"
           "________________________________________\n")
     print(f"Removing '{DIRS['build']}'")
-    if path.exists(DIRS["build"]):
+    if fs.exists(DIRS["build"]):
         shutil.rmtree(DIRS["build"])
 
 
@@ -164,25 +165,28 @@ def make_target(target: str, tags: List[str]):
 
 def make_html(tags: List[str]):
     make_target("html", ["MAKE_HTML"] + tags)
+    if fs.exists("../lidiya-sokolova.github.io"):
+        clean_dir("../lidiya-sokolova.github.io", excludes=[".git", ".nojekyll"])
+        copy_dir(DIRS.get(f"build_html", DIRS["build"]) + "/html", "../lidiya-sokolova.github.io", excludes=[".buildinfo", "objects.inv"])
 
 
 def make_htmlhelp(tags: List[str]):
     make_target("htmlhelp", ["MAKE_CHM"] + tags)
-    d = path.normpath(path.join(DIRS["build_htmlhelp"], "htmlhelp"))
+    d = fs.normpath(fs.join(DIRS["build_htmlhelp"], "htmlhelp"))
     for f in os.listdir(d):
         if f.endswith(".hhp"):
-            run([TOOLS["hhc"], path.join(d, f)], check=False)
+            run([TOOLS["hhc"], fs.join(d, f)], check=False)
     for f in os.listdir(d):
         if f.endswith(".chm"):
-            shutil.move(path.join(d, f), DIRS["build_htmlhelp"])
+            shutil.move(fs.join(d, f), DIRS["build_htmlhelp"])
 
 
 def make_latexpdf(tags: List[str]):
     make_target("latexpdf", ["MAKE_PDF"] + tags)
-    d = path.normpath(path.join(DIRS["build_latexpdf"], "latex"))
+    d = fs.normpath(fs.join(DIRS["build_latexpdf"], "latex"))
     for f in os.listdir(d):
         if f.endswith(".pdf"):
-            shutil.move(path.join(d, f), DIRS["build_latexpdf"])
+            shutil.move(fs.join(d, f), DIRS["build_latexpdf"])
 
 
 def run(cmd: Union[str, List[str]], cwd=None, check=True, shell=False, echo=True) -> ExitCode:
@@ -210,6 +214,52 @@ def run(cmd: Union[str, List[str]], cwd=None, check=True, shell=False, echo=True
         if check and p.returncode != 0:
             raise sp.CalledProcessError(p.returncode, cmd_str, "")
         return ExitCode(p.returncode)
+
+
+def endswith(s: str, suffixes: list[str]) -> bool:
+    for sfx in suffixes:
+        if s.endswith(sfx):
+            return True
+    return False
+
+
+def scan_dir(path: str) -> Generator[os.DirEntry, None, None]:
+    with os.scandir(path) as dir_iter:
+        for dir_ent in dir_iter:
+            yield dir_ent
+
+
+def scan_all_files(path: str) -> Generator[os.DirEntry, None, None]:
+    for entry in scan_dir(path):
+        if entry.is_dir(follow_symlinks=False):
+            yield from scan_all_files(entry.path)
+        else:
+            yield entry
+
+
+def clean_dir(path: str, excludes: list[str]):
+    for entry in scan_dir(path):
+        if entry.is_dir(follow_symlinks=False):
+            if not endswith(entry.path, excludes):
+                shutil.rmtree(entry.path)
+        else:
+            if not endswith(entry.path, excludes):
+                os.unlink(entry.path)
+
+
+def copy_dir(src: str, dst: str, excludes: list[str]):
+    pwd = os.getcwd()
+    dst_ = fs.abspath(dst)
+    try:
+        os.chdir(src)
+        for entry in scan_all_files("."):
+            if entry.is_file(follow_symlinks=False):
+                if not endswith(entry.path, excludes):
+                    print(f"Copying '{entry.path}'")
+                    os.makedirs(fs.join(dst_, fs.dirname(entry.path)), exist_ok=True)
+                    shutil.copy2(entry.path, fs.join(dst_, entry.path))
+    finally:
+        os.chdir(pwd)
 
 
 __all__ = []
