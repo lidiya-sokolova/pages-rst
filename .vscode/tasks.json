@@ -1,0 +1,151 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "group": "build",
+            "label": "Build HTML",
+            "type": "shell",
+            "command": "python3",
+            "args": ["make.py", "html"],
+            "windows": {
+                "command": "py",
+                "args": ["-3", "make.py", "html"]
+            },
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "presentation": {
+                "reveal": "silent"
+            },
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "group": "build",
+            "label": "Build CHM",
+            "type": "shell",
+            "command": "python3",
+            "args": ["make.py", "htmlhelp"],
+            "windows": {
+                "command": "py",
+                "args": ["-3", "make.py", "htmlhelp"]
+            },
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "presentation": {
+                "reveal": "silent"
+            },
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "group": "build",
+            "label": "Build PDF",
+            "type": "shell",
+            "command": "python3",
+            "args": ["make.py", "latexpdf"],
+            "windows": {
+                "command": "py",
+                "args": ["-3", "make.py", "latexpdf"]
+            },
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "presentation": {
+                "reveal": "silent"
+            },
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "group": "build",
+            "label": "Build all",
+            "type": "shell",
+            "command": "python3",
+            "args": ["make.py", "html", "htmlhelp", "latexpdf"],
+            "windows": {
+                "command": "py",
+                "args": ["-3", "make.py", "html", "htmlhelp", "latexpdf"]
+            },
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "presentation": {
+                "reveal": "silent"
+            },
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "group": "build",
+            "label": "Rebuild HTML",
+            "type": "shell",
+            "command": "python3",
+            "args": ["make.py", "clean", "html"],
+            "windows": {
+                "command": "py",
+                "args": ["-3", "make.py", "clean", "html"]
+            },
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "presentation": {
+                "reveal": "silent"
+            },
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "group": "build",
+            "label": "Rebuild CHM",
+            "type": "shell",
+            "command": "python3",
+            "args": ["make.py", "clean", "htmlhelp"],
+            "windows": {
+                "command": "py",
+                "args": ["-3", "make.py", "clean", "htmlhelp"]
+            },
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "presentation": {
+                "reveal": "silent"
+            },
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "group": "build",
+            "label": "Rebuild PDF",
+            "type": "shell",
+            "command": "python3",
+            "args": ["make.py", "clean", "latexpdf"],
+            "windows": {
+                "command": "py",
+                "args": ["-3", "make.py", "clean", "latexpdf"]
+            },
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "presentation": {
+                "reveal": "silent"
+            },
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "group": "build",
+            "label": "Rebuild all",
+            "type": "shell",
+            "command": "python3",
+            "args": ["make.py", "clean", "html", "htmlhelp", "latexpdf"],
+            "windows": {
+                "command": "py",
+                "args": ["-3", "make.py", "clean", "html", "htmlhelp", "latexpdf"]
+            },
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "presentation": {
+                "reveal": "silent"
+            },
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}
