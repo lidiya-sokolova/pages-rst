@@ -61,7 +61,7 @@ if not tags.has('MAKE_HTML') and not tags.has('MAKE_CHM') and not tags.has('MAKE
 html_theme =    'haiku' if tags.has('MAKE_CHM') else (
                 'haiku' if tags.has('MAKE_PDF') else \
                 'furo')
-html_title =    'Lidiya Sokolova personal blog'
+html_title =    'Lidiya Sokolova personal site'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
