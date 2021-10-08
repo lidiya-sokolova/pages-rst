@@ -1,4 +1,5 @@
 {
     "restructuredtext.builtDocumentationPath": "${workspaceFolder}\\build\\html",
-    "restructuredtext.confPath": "${workspaceFolder}\\source"
+    "restructuredtext.confPath": "${workspaceFolder}\\source",
+    "restructuredtext.pythonRecommendation.disabled": true
 }

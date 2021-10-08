@@ -6,7 +6,7 @@ About me
    :width:  256px
    :height: 256px
 
-I am a teacher of `Lyceum 180`_ in `Nizhny Novgorod`_.
+I am an English teacher at `Lyceum 180`_ in `Nizhny Novgorod`_.
 
 
 

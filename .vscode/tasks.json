@@ -10,8 +10,8 @@
             "command": "python3",
             "args": ["make.py", "html"],
             "windows": {
-                "command": "py",
-                "args": ["-3", "make.py", "html"]
+                "command": "python.exe",
+                "args": ["make.py", "html"]
             },
             "options": {
                 "cwd": "${workspaceFolder}"
@@ -28,8 +28,8 @@
             "command": "python3",
             "args": ["make.py", "htmlhelp"],
             "windows": {
-                "command": "py",
-                "args": ["-3", "make.py", "htmlhelp"]
+                "command": "python.exe",
+                "args": ["make.py", "htmlhelp"]
             },
             "options": {
                 "cwd": "${workspaceFolder}"
@@ -46,8 +46,8 @@
             "command": "python3",
             "args": ["make.py", "latexpdf"],
             "windows": {
-                "command": "py",
-                "args": ["-3", "make.py", "latexpdf"]
+                "command": "python.exe",
+                "args": ["make.py", "latexpdf"]
             },
             "options": {
                 "cwd": "${workspaceFolder}"
@@ -64,8 +64,8 @@
             "command": "python3",
             "args": ["make.py", "html", "htmlhelp", "latexpdf"],
             "windows": {
-                "command": "py",
-                "args": ["-3", "make.py", "html", "htmlhelp", "latexpdf"]
+                "command": "python.exe",
+                "args": ["make.py", "html", "htmlhelp", "latexpdf"]
             },
             "options": {
                 "cwd": "${workspaceFolder}"
@@ -82,8 +82,8 @@
             "command": "python3",
             "args": ["make.py", "clean", "html"],
             "windows": {
-                "command": "py",
-                "args": ["-3", "make.py", "clean", "html"]
+                "command": "python.exe",
+                "args": ["make.py", "clean", "html"]
             },
             "options": {
                 "cwd": "${workspaceFolder}"
@@ -100,8 +100,8 @@
             "command": "python3",
             "args": ["make.py", "clean", "htmlhelp"],
             "windows": {
-                "command": "py",
-                "args": ["-3", "make.py", "clean", "htmlhelp"]
+                "command": "python.exe",
+                "args": ["make.py", "clean", "htmlhelp"]
             },
             "options": {
                 "cwd": "${workspaceFolder}"
@@ -118,8 +118,8 @@
             "command": "python3",
             "args": ["make.py", "clean", "latexpdf"],
             "windows": {
-                "command": "py",
-                "args": ["-3", "make.py", "clean", "latexpdf"]
+                "command": "python.exe",
+                "args": ["make.py", "clean", "latexpdf"]
             },
             "options": {
                 "cwd": "${workspaceFolder}"
@@ -136,8 +136,8 @@
             "command": "python3",
             "args": ["make.py", "clean", "html", "htmlhelp", "latexpdf"],
             "windows": {
-                "command": "py",
-                "args": ["-3", "make.py", "clean", "html", "htmlhelp", "latexpdf"]
+                "command": "python.exe",
+                "args": ["make.py", "clean", "html", "htmlhelp", "latexpdf"]
             },
             "options": {
                 "cwd": "${workspaceFolder}"
