@@ -20,7 +20,7 @@ import os
 # -- Project information -----------------------------------------------------
 
 project = 'lidiya.sokolova.github.io'
-copyright = '2021, Lidiya Sokolova'
+copyright = '2022, Lidiya Sokolova'
 author = 'Lidiya Sokolova <lidiya.sokolova@mail.ru>'
 
 # The full version, including alpha/beta/rc tags
@@ -68,6 +68,10 @@ html_title =    'Сайт учителя Соколовой Л.Ф.'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = [
     '_static'
+]
+
+html_extra_path = [
+    '_other/'
 ]
 
 html_css_files = [
