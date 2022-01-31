@@ -19,14 +19,28 @@
 Программы
 ---------
 
-Открытые уроки
---------------
+#. `Optional course Practical grammar of English 10-11 forms </_documents/source_for_teachers_doc/Optional_course_Practical_grammar_of_English_10_11f.pdf>`_
+#. `Program of a club Enjoy English </_documents/source_for_teachers_doc/Program_of_a_club_Enjoy_English.pdf>`_
+#. `Social project English in a camp </_documents/source_for_teachers_doc/Social_project_English_in_a_camp.pdf>`_
+
+Уроки
+-----
+
+#. `Open lesson 3 form Christmas </_documents/source_for_teachers_doc/Open_lesson_3f_Christmas.pdf>`_
+#. `Open lesson 5 form A trip to London </_documents/source_for_teachers_doc/Open_lesson_5f_A_trip_to_London.pdf>`_
+#. `Open lesson 6 form Russian crafts </_documents/source_for_teachers_doc/Open_lesson_6f_Russian_crafts.pdf>`_
+#. `Open lesson 8 form Fashion </_documents/source_for_teachers_doc/Open_lesson_8f_Fashion.pdf>`_
+#. `Project of a lesson 5 form Pets </_documents/source_for_teachers_doc/Project_of_a_lesson_5f_Pets.pdf>`_
+#. `Russian crafts 6 form </_documents/source_for_teachers_doc/Russian_crafts_6_form.pdf>`_
 
 Технологические карты
 ---------------------
 
 Презентации
 -----------
+
+#. `First conditional 6 form </_documents/source_for_teachers_doc/First_conditional_6f.pdf>`_
+#. `Future meaning 6 form </_documents/source_for_teachers_doc/Future_meaning_6f.pdf>`_
 
 Интеллектуальные игры
 ---------------------
@@ -35,16 +49,3 @@
 
 Внеклассные мероприятия
 -----------------------
-
-
-#. `First conditional 6f <First_conditional_6f.pdf>`_
-#. `Future meaning 6f <Future_meaning_6f.pdf>`_
-#. `Open lesson 3f Christmas <Open_lesson_3f_Christmas.pdf>`_
-#. `Open lesson 5f A trip to London <Open_lesson_5f_A_trip_to_London.pdf>`_
-#. `Open lesson 6f Russian crafts <Open_lesson_6f_Russian_crafts.pdf>`_
-#. `Open lesson 8f Fashion <Open_lesson_8f_Fashion.pdf>`_
-#. `Optional course Practical grammar of English 10 11f <Optional_course_Practical_grammar_of_English_10_11f.pdf>`_
-#. `Program of a club Enjoy English <Program_of_a_club_Enjoy_English.pdf>`_
-#. `Project of a lesson 5f Pets <Project_of_a_lesson_5f_Pets.pdf>`_
-#. `Russian crafts 6 form <Russian_crafts_6_form.pdf>`_
-#. `Social project English in a camp <Social_project_English_in_a_camp.pdf>`_
