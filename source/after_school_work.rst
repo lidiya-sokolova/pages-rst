@@ -17,14 +17,13 @@
 
 На этой странице можно воспользоваться материалами для внеклассных мероприятий на английском языке.
 
-#. `Брейн-ринг "Св. Валентин" (10-11 класс) </_documents/source_after_school_doc/Brain_ring_St_valentine_10_11_form.pdf>`_.
-#. `Рождественская викторина (4-5 класс) </_documents/source_after_school_doc/Christmas_quiz_4_5_form.pdf>`_.
-#. `Рождественская викторина (5 класс) </_documents/source_after_school_doc/Cristmas_quiz_5_form.pdf>`_.
-#. `Игра "Что? Где? Когда?" (7 класс) </_documents/source_after_school_doc/Game_who_what_where_7_form.pdf>`_.
-#. `Игра-викторина "Рискуй!" (9-11) класс </_documents/source_after_school_doc/Jeopardy_game_9_11_form.pdf>`_.
-#. `История и символы дня Св. Валентина </_documents/source_after_school_doc/St_valentine's_day_history_and_symbols.pdf>`_.
-#. `Викторина UK </_documents/source_after_school_doc/The_UK_Quiz.pdf>`_.
-#. `Игра "Что? Где? Когда? Знаменитые британцы" (7 класс) </_documents/source_after_school_doc/Who_what_where_famous_britons_7_form.pdf>`_.
-#. `Своя игра (8 класс) </_documents/source_after_school_doc/Your_own_game_8_form.pdf>`_.
-#. `Интеллектуальная игра </_documents/source_after_school_doc/Интеллектуальная_игра.pdf>`_.
-#. `Концерт на английском языке </_documents/source_after_school_doc/Концерт_на_английском_языке.pdf>`_.
+#. `Brain ring (10-11 forms) St. Valentine  </_documents/source_after_school_doc/Brain_ring_St_valentine_10_11_form.pdf>`_.
+#. `Christmas quizz (4-5 forms) </_documents/source_after_school_doc/Christmas_quiz_4_5_form.pdf>`_.
+#. `Christmas quizz (5 form) </_documents/source_after_school_doc/Cristmas_quiz_5_form.pdf>`_.
+#. `Game What? Where? When? (7 form) </_documents/source_after_school_doc/Game_who_what_where_7_form.pdf>`_.
+#. `Jeopardy game (9-11forms) </_documents/source_after_school_doc/Jeopardy_game_9_11_form.pdf>`_.
+#. `St. Valentine's day. History and symbols </_documents/source_after_school_doc/St_valentine's_day_history_and_symbols.pdf>`_.
+#. `The UK- Quizz </_documents/source_after_school_doc/The_UK_Quiz.pdf>`_.
+#. `Game What? Where? When? "Famous Britons" (7 класс) </_documents/source_after_school_doc/Who_what_where_famous_britons_7_form.pdf>`_.
+#. `Your own game (8 form) </_documents/source_after_school_doc/Your_own_game_8_form.pdf>`_.
+#. `Concert in English </_documents/source_after_school_doc/concert_in_english.pdf>`_.
