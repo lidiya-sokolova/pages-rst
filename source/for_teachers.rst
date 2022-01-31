@@ -41,6 +41,8 @@
 
 #. `First conditional 6 form </_documents/source_for_teachers_doc/First_conditional_6f.pdf>`_
 #. `Future meaning 6 form </_documents/source_for_teachers_doc/Future_meaning_6f.pdf>`_
+#. `Past Perfect </_documents/source_for_teachers_doc/Past Perfect.pdf>`_
+#. `Past Perfect Progressive </_documents/source_for_teachers_doc/Past Perfect Progressive.pdf>`_
 
 Интеллектуальные игры
 ---------------------
