@@ -1,3 +1,14 @@
-body img.sidebar-logo {
-  max-width: 230px;
+body .two-cols {
+  display: flex;
+}
+body .left-col {
+  flex: 1;
+  flex-wrap: wrap;
+}
+body .right-col {
+  flex: 2;
+  margin-left: 20px;
+}
+body .right-col p {
+  margin-top: 0;
 }
