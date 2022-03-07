@@ -13,8 +13,6 @@
 
 Уважаемые коллеги, на данной странице размещены материалы для сопровождения уроков английского языка и внеклассных мероприятий.
 
-Материалы
-=========
 
 Программы
 ---------
@@ -36,8 +34,18 @@
 Технологические карты
 ---------------------
 
+#. `UMK Afanasieva 2 form Unit 1 </_documents/source_for_teachers_doc/umk_afanasieva_2_cl_unit_1.pdf>`_
+#. `UMK Afanasieva 2 form Unit 2 </_documents/source_for_teachers_doc/umk_afanasieva_2_cl_unit_2.pdf>`_
+#. `UMK Afanasieva 2 form Unit 3 </_documents/source_for_teachers_doc/umk_afanasieva_2_cl_unit_3.pdf>`_
+#. `UMK Afanasieva 2 form Unit 4 </_documents/source_for_teachers_doc/umk_afanasieva_2_cl_unit_4.pdf>`_
+#. `UMK Afanasieva 2 form Unit 5 </_documents/source_for_teachers_doc/umk_afanasieva_2_cl_unit_5.pdf>`_
+#. `UMK Afanasieva 2 form Unit 6 </_documents/source_for_teachers_doc/umk_afanasieva_2_cl_unit_6.pdf>`_
+
 Презентации
 -----------
+
+6 класс
+-------
 
 #. `First conditional 6 form </_documents/source_for_teachers_doc/First_conditional_6f.pdf>`_
 #. `Future meaning 6 form </_documents/source_for_teachers_doc/Future_meaning_6f.pdf>`_

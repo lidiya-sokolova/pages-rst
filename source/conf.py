@@ -75,7 +75,7 @@ html_extra_path = [
 ]
 
 html_css_files = [
-    #'css/custom.css'
+    'css/custom.css'
 ]
 
 html_js_files = [
