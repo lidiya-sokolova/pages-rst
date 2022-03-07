@@ -44,9 +44,6 @@
 Презентации
 -----------
 
-6 класс
--------
-
 #. `First conditional 6 form </_documents/source_for_teachers_doc/First_conditional_6f.pdf>`_
 #. `Future meaning 6 form </_documents/source_for_teachers_doc/Future_meaning_6f.pdf>`_
 #. `Past Perfect </_documents/source_for_teachers_doc/Past_Perfect.pdf>`_
