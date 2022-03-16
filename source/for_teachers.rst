@@ -48,11 +48,18 @@
 #. `Future meaning 6 form </_documents/source_for_teachers_doc/Future_meaning_6f.pdf>`_
 #. `Past Perfect </_documents/source_for_teachers_doc/Past_Perfect.pdf>`_
 #. `Past Perfect Progressive </_documents/source_for_teachers_doc/Past_Perfect_Progressive.pdf>`_
+#. `Past Perfect </_documents/source_for_teachers_doc/Past_Perfect.pdf>`_
+#. `Adjectives with infinitive (7 form) </_documents/source_for_teachers_doc/adjectives_with_infinitive_7f.pdf>`_
+#. `Adjectives ending in ed,ing (7 form) </_documents/source_for_teachers_doc/adjectives_with_ed_ing_7f.pdf>`_
+#. `Infinitive as an attribute (7 form) </_documents/source_for_teachers_doc/Infinitive_as_an_attribute_7f.pdf>`_
+#. `Relative clause with whose (7 form) </_documents/source_for_teachers_doc/Relative_clause_with_whose_7f.pdf>`_
+#. `National parks (7 form) </_documents/source_for_teachers_doc/National_parks_7f.pdf>`_
 
 Интеллектуальные игры
 ---------------------
 
 Использование интеллектуальных игр на уроках делает процесс изучения иностранного языка для школьников интересным, увлекательным и познавательным. Одна из важнейших целей этого метода – стимулировать познавательный интерес обучаемых. Игра – это хороший инструмент для успешного изучения иностранного языка, когда традиционные упражнения уже неэффективны. Урок может стать невероятно интересным занятием для учеников, в котором они могут погрузиться в мир английского языка, и эта возможность может быть доступна всем ученикам в классе, независимо от его успеваемости по предмету. Интеллектуальные игры обладают большими возможностями, которые необходимо использовать для того, чтобы дать учащимся возможность раскрыть свои способности, показать  то, чему они научились. Игра всегда предполагает решение -  как поступить, что сказать, как выиграть. Желание решить эти вопросы обостряет мыслительную деятельность учащихся.
 
-Внеклассные мероприятия
------------------------
+
+#. `Game What? Where? When? (7 form) </_documents/source_after_school_doc/Game_who_what_where_7_form.pdf>`_.
+#. `Game What? Where? When? "Famous Britons" (7 класс) </_documents/source_after_school_doc/Who_what_where_famous_britons_7_form.pdf>`_.

@@ -7,7 +7,8 @@
 
    -- Сократ
 
-
+Задания
+=======
 #. `Exercises Passive voice </_documents/source_for_students_doc/Exercises_Passive_voice.pdf>`_.
 #. `Exercises present perfect (4-5 forms) </_documents/source_for_students_doc/Exercises_present_perfect_4_5f.pdf>`_.
 #. `Grammar exercises (4 form) </_documents/source_for_students_doc/Grammar_exercises_4f.pdf>`_.
@@ -15,9 +16,13 @@
 #. `Word building exercises </_documents/source_for_students_doc/Word_building_exercises.pdf>`_.
 #. `Word order exercises </_documents/source_for_students_doc/Word_order_exercises.pdf>`_.
 #. `Word perfect (7 form) </_documents/source_for_students_doc/Word_perfect_7f.pdf>`_.
-#. `Word perfect (8 form) </_documents/source_for_students_doc/Word_perfect_8f.pdf>`_.
-
-
+#. Word perfect (8 form) </_documents/source_for_students_doc/Word_perfect_8f.pdf>`_.
+#.`Use of english (4 form) </_documents/source_for_students_doc/use_of_english_exercises_4f.pdf>`_.
+#.`Use of english (5 form) </_documents/source_for_students_doc/use_of_english_exercises_5f.pdf>`_.
+#.`Use of english (9 form) </_documents/source_for_students_doc/use_of_english_exercises_9f.pdf>`_.
+#.`Use of english (10 form) </_documents/source_for_students_doc/use_of_english_exercises_10f.pdf>`_.
+#.`Use of english (10 11 forms) </_documents/source_for_students_doc/use_of_english_exercises_10_11f.pdf>`_.
+#.`Vocabulary (11 form) </_documents/source_for_students_doc/vocabulary_exercises_4f.pdf>`_.
 Для одаренных учащихся
 ======================
 
