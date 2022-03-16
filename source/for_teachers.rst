@@ -31,6 +31,13 @@
 #. `Project of a lesson 5 form Pets </_documents/source_for_teachers_doc/Project_of_a_lesson_5f_Pets.pdf>`_
 #. `Russian crafts 6 form </_documents/source_for_teachers_doc/Russian_crafts_6_form.pdf>`_
 
+Контрольные работы
+------------------
+
+#. `3 form </_documents/source_for_teachers_doc/umk_ter_minasova_3_f.pdf>`_
+#. `4 form </_documents/source_for_teachers_doc/umk_ter_minasova_4_f.pdf>`_
+#. `5 form </_documents/source_for_teachers_doc/umk_ter_minasova_5_f.pdf>`_
+
 Технологические карты
 ---------------------
 

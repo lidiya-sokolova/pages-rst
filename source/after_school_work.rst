@@ -31,7 +31,7 @@
 
 #. `Brain ring (10-11 forms) St. Valentine  </_documents/source_after_school_doc/Brain_ring_St_valentine_10_11_form.pdf>`_.
 
-#. `Jeopardy game (9-11forms) </_documents/source_after_school_doc/Jeopardy_game_9_11_form.pdf>`_.
+#. `Jeopardy game (9-11 forms) </_documents/source_after_school_doc/Jeopardy_game_9_11_form.pdf>`_.
 #. `St. Valentine's day. History and symbols </_documents/source_after_school_doc/St_valentine's_day_history_and_symbols.pdf>`_.
 #. `Game What? Where? When? "Famous Britons" (7 класс) </_documents/source_after_school_doc/Who_what_where_famous_britons_7_form.pdf>`_.
 #. `Your own game (8 form) </_documents/source_after_school_doc/Your_own_game_8_form.pdf>`_.
