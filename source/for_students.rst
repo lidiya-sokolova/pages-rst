@@ -17,11 +17,11 @@
 #. `Word order exercises </_documents/source_for_students_doc/word_order_exercises_4_5_f.pdf>`_.
 #. `Word perfect (7 form) </_documents/source_for_students_doc/Word_perfect_7f.pdf>`_.
 #. `Word perfect (8 form) </_documents/source_for_students_doc/Word_perfect_8f.pdf>`_.
-#. `Use of english (4 form) </_documents/source_for_students_doc/use_of_english_exercises_4f.pdf>`_.
-#. `Use of english (5 form) </_documents/source_for_students_doc/use_of_english_exercises_5f.pdf>`_.
-#. `Use of english (9 form) </_documents/source_for_students_doc/use_of_english_exercises_9f.pdf>`_.
-#. `Use of english (10 form) </_documents/source_for_students_doc/use_of_english_exercises_10f.pdf>`_.
-#. `Use of english (10 11 forms) </_documents/source_for_students_doc/use_of_english_exercises_10_11f.pdf>`_.
+#. `Use of English (4 form) </_documents/source_for_students_doc/use_of_english_exercises_4f.pdf>`_.
+#. `Use of English (5 form) </_documents/source_for_students_doc/use_of_english_exercises_5f.pdf>`_.
+#. `Use of English (9 form) </_documents/source_for_students_doc/use_of_english_exercises_9f.pdf>`_.
+#. `Use of English (10 form) </_documents/source_for_students_doc/use_of_english_exercises_10f.pdf>`_.
+#. `Use of English (10 11 forms) </_documents/source_for_students_doc/use_of_english_exercises_10_11f.pdf>`_.
 #. `Vocabulary (11 form) </_documents/source_for_students_doc/vocabulary_exercises_11_f.pdf>`_.
 
 
