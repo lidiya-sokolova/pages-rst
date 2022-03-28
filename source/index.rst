@@ -13,7 +13,6 @@
    :maxdepth: 1
 
    about
-   papers
    portfolio
    publications
    after_school_work
