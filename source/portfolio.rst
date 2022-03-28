@@ -30,6 +30,9 @@
 Достижения учащихся
 ===================
 
+НОУ
+---
+
 * `Диплом участника 2015 г. </_documents/students_achievements/Diploma_1.pdf>`_
 * `Сертификат участников 2015 г. </_documents/students_achievements/Diploma_7.pdf>`_
 * `Диплом победителя 2016 г. </_documents/students_achievements/Diploma_2.pdf>`_
@@ -39,4 +42,7 @@
 * `Диплом 2 степени 2019 г. </_documents/students_achievements/Diploma_6.pdf>`_
 
 Результаты экзаменов
-====================
+--------------------
+
+Олимпиады
+---------
