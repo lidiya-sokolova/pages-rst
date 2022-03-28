@@ -14,7 +14,6 @@
 
    about
    portfolio
-   publications
    after_school_work
    for_teachers
    links
