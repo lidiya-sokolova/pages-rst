@@ -8,7 +8,7 @@
 
       .. image:: /_images/photo.jpg
          :alt:    my photo
-         :width:  250px
+         :width:  200px
 
    .. container:: right-col
 
