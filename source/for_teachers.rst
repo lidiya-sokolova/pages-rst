@@ -69,4 +69,4 @@
 
 
 #. `Game What? Where? When? (7 form) </_documents/source_after_school_doc/Game_who_what_where_7_form.pdf>`_.
-#. `Game What? Where? When? "Famous Britons" (7 класс) </_documents/source_after_school_doc/Who_what_where_famous_britons_7_form.pdf>`_.
+#. `Game What? Where? When? "Famous Britons" (7 form) </_documents/source_after_school_doc/Who_what_where_famous_britons_7_form.pdf>`_.
