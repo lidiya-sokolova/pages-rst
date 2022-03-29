@@ -2,7 +2,7 @@
     "restructuredtext.builtDocumentationPath": "${workspaceFolder}\\build\\html",
     "restructuredtext.confPath": "${workspaceFolder}\\source",
     "restructuredtext.pythonRecommendation.disabled": true,
-    "esbonio.sphinx.confDir": "c:\\Site\\pages-rst\\source",
+    "esbonio.sphinx.confDir": "${workspaceFolder}\\source",
     "esbonio.server.enabled": true,
-    "esbonio.sphinx.buildDir": "c:\\Site\\pages-rst\\build"
+    "esbonio.sphinx.buildDir": "${workspaceFolder}\\build"
 }

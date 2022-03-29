@@ -46,3 +46,6 @@
 
 Олимпиады
 ---------
+
+* `Региональный этап ВШО 2021 г. </_documents/students_achievements/English_Olympiad_results_2021.pdf>`_
+* `Региональный этап ВШО 2022 г. </_documents/students_achievements/English_Olympiad_results_2022.pdf>`_
