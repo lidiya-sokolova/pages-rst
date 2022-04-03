@@ -83,7 +83,7 @@ html_js_files = [
 ]
 
 html_favicon = '_static/favicon.ico'
-html_logo = '_static/logo.svg'
+html_logo = '_static/logo.jpg'
 html_copy_source = False
 html_show_sourcelink = False
 
