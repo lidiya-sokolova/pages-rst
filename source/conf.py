@@ -93,3 +93,8 @@ html_show_sourcelink = False
 latex_elements = {
     'inputenc': '\\usepackage[utf8x]{inputenc}'
 }
+
+
+rst_epilog = '''
+.. include:: /_meta_.rst
+'''
